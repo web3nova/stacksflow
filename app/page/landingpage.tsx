@@ -1331,7 +1331,7 @@ console.<span class="code-method">log</span>(<span class="code-string">'Settled:
             ))}
           </div>
           <div className="footer-bottom">
-            <span>© 2025 Stacks USDCx. All rights reserved.</span>
+            <span>© 2026 Stacks USDCx. All rights reserved.</span>
             <span className="status-dot">All systems operational</span>
           </div>
         </div>
