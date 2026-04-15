@@ -1155,6 +1155,7 @@ export default function StacksLanding() {
       </section>
 
       {/* STATS */}
+
       <div className="stats-bar">
         <div className="stats-inner">
           {[
@@ -1172,6 +1173,7 @@ export default function StacksLanding() {
       </div>
 
       {/* AI SECTION */}
+
       <div className="ai-section">
         <div className="ai-inner">
           <div className="ai-header">
@@ -1226,6 +1228,7 @@ export default function StacksLanding() {
       </section>
 
       {/* CODE */}
+
       <div className="code-section">
         <div className="code-inner">
           <div>
@@ -1264,6 +1267,7 @@ console.<span class="code-method">log</span>(<span class="code-string">'Settled:
       </div>
 
       {/* USE CASES */}
+
       <section className="section">
         <div className="section-tag"><Globe size={12} /> Use Cases</div>
         <h2 className="section-h2">Built for every<br /><em>use case.</em></h2>
@@ -1287,6 +1291,7 @@ console.<span class="code-method">log</span>(<span class="code-string">'Settled:
       </section>
 
       {/* CTA */}
+
       <section className="cta-section">
         <div className="cta-glow" />
         <div className="cta-inner">
@@ -1305,6 +1310,7 @@ console.<span class="code-method">log</span>(<span class="code-string">'Settled:
       </section>
 
       {/* FOOTER */}
+      
       <footer className="footer">
         <div className="footer-inner">
           <div className="footer-grid">
