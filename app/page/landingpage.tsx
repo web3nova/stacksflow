@@ -1147,7 +1147,7 @@ export default function StacksLanding() {
               </div>
               <div className="stat-float">
                 <div className="stat-float-label">Active Builders</div>
-                <div className="stat-float-value">1,200+</div>
+                <div className="stat-float-value">1,250+</div>
               </div>
             </div>
           </div>
