@@ -15,7 +15,7 @@ const styles = `
 
   :root {
     --background: #0A0805;
-    --foreground: #F0E8D8;
+    --foreground: #e6a21a;
     --font-sans: 'DM Sans', sans-serif;
     --font-mono: 'JetBrains Mono', monospace;
   }
@@ -1211,7 +1211,7 @@ export default function StacksLanding() {
           {[
             { Icon: Zap, title: 'AI Settlement Agents', desc: 'Intelligent routing and gas optimization, fully automated.', features: ['Auto-retry failed transactions', 'Gas optimization', 'Real-time status tracking'] },
             { Icon: Shield, title: 'Circle xReserve Trust', desc: 'Real USDC backed by Circle with cryptographic attestations.', features: ['Proof of reserves on-chain', 'No exploits possible', 'Direct Circle integration'] },
-            { Icon: Code, title: 'Developer-First API', desc: 'Clean API with full TypeScript support and webhooks.', features: ['TypeScript SDK', 'Webhook notifications', '5-minute integration'] },
+            { Icon: Code, title: 'Developer-First API', desc: 'Clean API endpoint with full TypeScript support and webhooks.', features: ['TypeScript SDK', 'Webhook notifications', '5-minute integration'] },
           ].map(({ Icon, title, desc, features }) => (
             <div key={title} className="feature-card">
               <div className="feature-icon"><Icon size={20} /></div>
