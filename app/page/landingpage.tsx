@@ -1143,7 +1143,7 @@ export default function StacksLanding() {
               <div className="orb-core">₿</div>
               <div className="stat-float">
                 <div className="stat-float-label">Live Settlements</div>
-                <div className="stat-float-value">$2.4M</div>
+                <div className="stat-float-value">$2.5M</div>
               </div>
               <div className="stat-float">
                 <div className="stat-float-label">Active Builders</div>
