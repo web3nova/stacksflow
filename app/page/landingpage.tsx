@@ -1130,7 +1130,7 @@ export default function StacksLanding() {
               </a>
             </div>
             <div className="hero-trust">
-              <div className="trust-item"><CheckCircle size={14} /> No credit card required</div>
+              <div className="trust-item"><CheckCircle size={14} /> No credit card needed</div>
               <div className="trust-item"><CheckCircle size={14} /> 5-minute setup</div>
             </div>
           </div>
