@@ -1123,7 +1123,7 @@ export default function StacksLanding() {
             </p>
             <div className="hero-actions">
               <a href={DOCS_URL} target="_blank" rel="noopener noreferrer" className="btn-primary">
-                Start Building <ArrowRight size={16} />
+                Start Building Now!<ArrowRight size={16} />
               </a>
               <a href={DOCS_URL} target="_blank" rel="noopener noreferrer" className="btn-secondary">
                 <Play size={14} /> View Docs
