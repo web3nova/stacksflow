@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Stacksflowxyz",
-  description: "First Api Service on Stacks",
+  description: "First Api Service on Stacks Blockchain",
 };
 
 export default function RootLayout({
