@@ -1143,7 +1143,7 @@ export default function StacksLanding() {
               <div className="orb-core">₿</div>
               <div className="stat-float">
                 <div className="stat-float-label">Live Settlements</div>
-                <div className="stat-float-value">$2.5M</div>
+                <div className="stat-float-value">.5M</div>
               </div>
               <div className="stat-float">
                 <div className="stat-float-label">Active Builders</div>
@@ -1160,7 +1160,7 @@ export default function StacksLanding() {
         <div className="stats-inner">
           {[
             { value: '1,200+', label: 'Active Builders' },
-            { value: '$2.4M', label: 'Daily Volume' },
+            { value: '.4M', label: 'Daily Volume' },
             { value: '99.9%', label: 'Uptime' },
             { value: '3.2s', label: 'Avg Settlement' },
           ].map(s => (
