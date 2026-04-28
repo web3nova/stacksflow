@@ -1147,7 +1147,7 @@ export default function StacksLanding() {
               </div>
               <div className="stat-float">
                 <div className="stat-float-label">Active Builders</div>
-                <div className="stat-float-value">1,650+</div>
+                <div className="stat-float-value">1,250+</div>
               </div>
             </div>
           </div>
@@ -1159,8 +1159,8 @@ export default function StacksLanding() {
       <div className="stats-bar">
         <div className="stats-inner">
           {[
-            { value: '1,600+', label: 'Active Builders' },
-            { value: '.2M', label: 'Daily Volume' },
+            { value: '1,200+', label: 'Active Builders' },
+            { value: '.4M', label: 'Daily Volume' },
             { value: '99.9%', label: 'Uptime' },
             { value: '3.2s', label: 'Avg Settlement' },
           ].map(s => (
