@@ -1,19 +1,19 @@
 @import "tailwindcss";
 
 :root {
-  --background: #060809;
+  --background: #060509;
   --foreground: #F0E8D8;
 
   /* Brand tokens */
-  --gold: #C8FF00;
-  --gold-light: #D4FF33;
-  --gold-dim: #556600;
-  --orange: #88CC00;
-  --surface: #080a05;
-  --surface2: #0d1008;
+  --gold: #BF5FFF;
+  --gold-light: #CC80FF;
+  --gold-dim: #5A1A8A;
+  --orange: #9933CC;
+  --surface: #08050d;
+  --surface2: #0d0a12;
   --border: rgba(201, 168, 76, 0.15);
   --border-bright: rgba(201, 168, 76, 0.4);
-  --muted: #3a5030;
+  --muted: #4a3060;
 }
 
 /* No dark media query needed — dark is the default */
